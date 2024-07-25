@@ -31,7 +31,7 @@ A simplified web application for taking notes with local storage persistence.
 To run this project locally:
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/simple-note-taking-app.git
+    git clone https://github.com/EshaanManchanda/Simple-Note-Tracking-App.git
 
     cd simple-note-taking-app
 
