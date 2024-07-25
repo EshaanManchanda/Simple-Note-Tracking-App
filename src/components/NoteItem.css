@@ -1,0 +1,44 @@
+/* src/components/NoteItem.css */
+.note-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    padding: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .note-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .note-content {
+    margin-bottom: 10px;
+  }
+  
+  .note-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .delete-btn {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
+  
