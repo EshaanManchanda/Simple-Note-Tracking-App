@@ -1,11 +1,14 @@
 # Simple Note Taking App
 A simplified web application for taking notes with local storage persistence.
 
+[Deploy Link](https://main--simple-note-tracking-app.netlify.app/)
+
 ## Features
 - Create, Read, Update, and Delete (CRUD) operations for notes.
 - Pagination for viewing notes (10 notes per page).
 - Search functionality to filter notes by title or content.
 - Responsive design for usability across different devices.
+
 
 ## Screenshots
 
